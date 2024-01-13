@@ -6,7 +6,7 @@
 </p>
 
 <div align="center">
-  <h5> LET'S GET CONNECTED </h5>
+  <h5> LET'S GET CONNECTED</h5>
    
    [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavya-sri-32467a225)
    [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bkavyasri1211@gmail.com)
@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-PROGRAMMING LANGUAGES
+<h5> PROGRAMMING LANGUAGES </h5>
   
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -26,7 +26,7 @@ PROGRAMMING LANGUAGES
 </div>
 
 <div align="center">
-LIBRARIES
+<h5> LIBRARIES </h5>
 
 ![NumPy ](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas ](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
