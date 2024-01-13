@@ -14,4 +14,11 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kavyasri1211&show_icons=true&locale=en" alt="kavyasri1211" /></p>
+
+
+
+
+<div align="center">
+   
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kavyasri1211&show_icons=true&theme=radical)
+<div>
