@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=MAKE+IT+WORK,MAKE++IT+RIGHT,;MAKE+IT+FAST. ">
+  <img src="https://readme-typing-svg.demolab.com/?lines=MAKE+IT+WORK,MAKE++IT+RIGHT,MAKE+IT+FAST. ">
 </p>
 
 <div align="center">
